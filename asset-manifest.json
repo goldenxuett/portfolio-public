@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-public/static/css/main.b77b21a1.chunk.css",
+    "main.js": "/portfolio-public/static/js/main.5ee97a46.chunk.js",
+    "main.js.map": "/portfolio-public/static/js/main.5ee97a46.chunk.js.map",
+    "runtime-main.js": "/portfolio-public/static/js/runtime-main.c67a18f7.js",
+    "runtime-main.js.map": "/portfolio-public/static/js/runtime-main.c67a18f7.js.map",
+    "static/js/2.1a25b51c.chunk.js": "/portfolio-public/static/js/2.1a25b51c.chunk.js",
+    "static/js/2.1a25b51c.chunk.js.map": "/portfolio-public/static/js/2.1a25b51c.chunk.js.map",
+    "index.html": "/portfolio-public/index.html",
+    "precache-manifest.ad2ca59d2c8f1c8e166f3b32a5896e93.js": "/portfolio-public/precache-manifest.ad2ca59d2c8f1c8e166f3b32a5896e93.js",
+    "service-worker.js": "/portfolio-public/service-worker.js",
+    "static/css/main.b77b21a1.chunk.css.map": "/portfolio-public/static/css/main.b77b21a1.chunk.css.map",
+    "static/js/2.1a25b51c.chunk.js.LICENSE.txt": "/portfolio-public/static/js/2.1a25b51c.chunk.js.LICENSE.txt",
+    "static/media/2002ux.pdf": "/portfolio-public/static/media/2002ux.92e0361d.pdf",
+    "static/media/2002ux_image.png": "/portfolio-public/static/media/2002ux_image.d2ae8104.png",
+    "static/media/cs.jpg": "/portfolio-public/static/media/cs.f282dade.jpg",
+    "static/media/cyclic.pdf": "/portfolio-public/static/media/cyclic.df23cd64.pdf",
+    "static/media/cyclic_image.png": "/portfolio-public/static/media/cyclic_image.a0bf0cfd.png",
+    "static/media/styles.sass": "/portfolio-public/static/media/third.4883ce3b.jpg",
+    "static/media/food.pdf": "/portfolio-public/static/media/food.de196eb2.pdf",
+    "static/media/food_image.png": "/portfolio-public/static/media/food_image.f598d9ab.png",
+    "static/media/fumes.pdf": "/portfolio-public/static/media/fumes.51cfabee.pdf",
+    "static/media/fumes_image.png": "/portfolio-public/static/media/fumes_image.4a3932bb.png",
+    "static/media/pi_image.png": "/portfolio-public/static/media/pi_image.bbd8e551.png",
+    "static/media/second.jpg": "/portfolio-public/static/media/second.76e5f339.jpg",
+    "static/media/secure_image.png": "/portfolio-public/static/media/secure_image.812a0c57.png",
+    "static/media/weed.pdf": "/portfolio-public/static/media/weed.0dbe8b41.pdf",
+    "static/media/weed_image.png": "/portfolio-public/static/media/weed_image.67b78ada.png",
+    "static/media/yspa.png": "/portfolio-public/static/media/yspa.36a52769.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67a18f7.js",
+    "static/js/2.1a25b51c.chunk.js",
+    "static/css/main.b77b21a1.chunk.css",
+    "static/js/main.5ee97a46.chunk.js"
+  ]
+}
